@@ -3,7 +3,7 @@
 
 ## Author
 **Vairamuthu Manikandan**  
-Machine Learning Practitioner
+Healthcare AI Practitioner (Machine Learning & Deep Learning)
 
 ## Project Description
 Medivision AI is a Healthcare Artificial Intelligence project focused on medical image classification using deep learning.
